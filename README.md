@@ -12,7 +12,7 @@ Developed Apple HomePage Clone using React, HTML,CSS.
 
 - Home Page
 
-### Technologies I used</u>
+### Tech stack</u>
 
 - HTML
 - CSS
