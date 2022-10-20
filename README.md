@@ -6,7 +6,7 @@ https://apple-rose-sigma.vercel.app/
 
 ### Description
 
-Developed Apple HomePage Clone using React, HTML,CSS.
+Developed Apple HomePage Clone using React, HTML,and CSS.
 
 ## Pages:
 
