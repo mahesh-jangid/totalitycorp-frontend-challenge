@@ -16,4 +16,4 @@ Developed Apple HomePage Clone using React, HTML,and CSS.
 
 - HTML
 - CSS
-- React
+- ReactJS
