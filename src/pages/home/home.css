@@ -52,7 +52,7 @@ section{
   margin: 13px 0;
 }
 .hs-part1 .main1 .div4 a {
-  font-size: 19px;
+  font-size: 18px;
 }
 .hs-part1 .main1 .div4 .a1 {
   margin-left: 10px;
@@ -106,9 +106,10 @@ section{
   .hs-part1 .main1 .div4 a {
     font-size: 16px;
   }
-  .hs-part1 .main1 {
-    top: 45%;
-  }
+  /* .hs-part1 .main1 {
+    left: 50%;
+  transform: translate(-50%, -50%);
+  } */
 }
 
 /* section-2 */
@@ -128,13 +129,16 @@ section{
   width: 85rem;
   height: 36rem;
   object-fit: cover;
-  object-position: 50% 85%;
+  /* object-position: 50% 85%; */
+  object-position: 36% 85%;
 }
 .hs-part2 .main1 {
   position: relative;
   top: 30%;
-  left: 50%;
-  transform: translate(-50%, 114%);
+  /* left: 50%;
+  transform: translate(-50%, 114%); */
+  left: 28%;
+  transform: translate(-55%, 149%);
 }
 .hs-part2 .main1 .div1 h2 {
   font-size: 48px;
@@ -165,7 +169,8 @@ section{
 
 @media only screen and (max-width: 734px) {
   .hs-part2 .main1{
-    transform: translate(-50%, 114%);
+    left: 50%;
+    transform: translate(-50%, 148%);
   }
   .hs-part2 .div5 img {
     display: none;
