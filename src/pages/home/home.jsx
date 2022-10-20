@@ -1,7 +1,7 @@
 import React from "react";
 import "./home.css";
-import iphone121 from "../../assets/home/iphone_12_updated_large.jpg";
-import iphone122 from "../../assets/home/iphone_12_updated_small.jpg";
+import iphod121 from "../../assets/home/ipodPronew.jpg";
+import iphod122 from "../../assets/home/ipodPronew-sm.jpg";
 import iphone12pro1 from "../../assets/home/iphone_12_pro_large.jpg";
 import iphone12prosmall from "../../assets/home/iphone_12_pro_small.jpg";
 import ipadprolarge from "../../assets/home/hero_ipad_pro_large.jpg";
@@ -43,7 +43,7 @@ function Home() {
 
         <div className="main1">
           <div className="div1">
-            <h2>iPhone 12</h2>
+            <h2>iPad Pro</h2>
           </div>
           <div className="div2">
             <h3>Lovable. Drawlable. Magical</h3>
@@ -64,10 +64,10 @@ function Home() {
           </div>
         </div>
         <div className="div5">
-          <img src={iphone121} alt="" />
+          <img src={iphod121} alt="" />
         </div>
         <div className="div6">
-          <img src={iphone122} alt="" />
+          <img src={iphod122} alt="" />
         </div>
       </section>
       {/* section 1 ends here*/}
