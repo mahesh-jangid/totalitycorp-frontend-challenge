@@ -2,6 +2,11 @@ import React from "react";
 import "./home.css";
 import iphod121 from "../../assets/home/ipodPronew.jpg";
 import iphod122 from "../../assets/home/ipodPronew-sm.jpg";
+
+import promo_watch_series_6_lte__f8lrasjnry2y_small from "../../assets/home/promo_watch_series_6_lte__f8lrasjnry2y_small.jpg";
+import promo_watch_series_large from "../../assets/home/promo_watch_series_large.jpg";
+import promo_watch_series_medium from "../../assets/home/promo_watch_series_medium.jpg";
+import promo_bts__bg3cb4kaoqoi_small from "../../assets/home/promo_bts__bg3cb4kaoqoi_small.jpg";
 import iphone12pro1 from "../../assets/home/iphone_12_pro_large.jpg";
 import iphone12prosmall from "../../assets/home/iphone_12_pro_small.jpg";
 import ipadprolarge from "../../assets/home/hero_ipad_pro_large.jpg";
@@ -9,10 +14,6 @@ import ipadprosmall from "../../assets/home/hero_ipad_pro_small.jpg";
 import applewatch from "../../assets/home/promo_logo_watch_series_6_medium.png";
 import promo_bts_large from "../../assets/home/promo_bts_large.jpg";
 import promo_bts_medium from "../../assets/home/promo_bts_medium.jpg";
-import promo_watch_series_6_lte__f8lrasjnry2y_small from "../../assets/home/promo_watch_series_6_lte__f8lrasjnry2y_small.jpg";
-import promo_watch_series_large from "../../assets/home/promo_watch_series_large.jpg";
-import promo_watch_series_medium from "../../assets/home/promo_watch_series_medium.jpg";
-import promo_bts__bg3cb4kaoqoi_small from "../../assets/home/promo_bts__bg3cb4kaoqoi_small.jpg";
 import promo_imac_large from "../../assets/home/promo_imac_large.jpg";
 import promo_imac__crg641tip4q6_medium from "../../assets/home/promo_imac__crg641tip4q6_medium.jpg";
 import promo_imac__crg641tip4q6_small from "../../assets/home/promo_imac__crg641tip4q6_small.jpg";
@@ -228,20 +229,16 @@ function Home() {
             </div>
           </div>
         </div>
-
         <div className="main2">
           <div className="div1">
             <img src={promo_airtag_large} alt="" />
           </div>
-
           <div className="div2">
             <img src={promo_airtag__e6b73a64nno2_medium} alt="" />
           </div>
-
           <div className="div4">
             <img src={promo_airtag__e6b73a64nno2_small} alt="" />
           </div>
-
           <div className="div3 airtag">
             <div className="sub1">
               <h4>AirTag</h4>
